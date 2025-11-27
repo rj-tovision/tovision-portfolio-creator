@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ToVision Portfolio Creator
  * Description: Een plugin om portfolio posts aan te maken met automatische WebP conversie.
- * Version: 1.2.2
+ * Version: 1.2.3
  * Author: ToVision
  */
 
